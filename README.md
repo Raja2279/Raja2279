@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @rJaBTC
-- 👀 I’m interested in Web3 Job
-- 🌱 I’m currently learning Blockchain Technology
+- 👋 Hi, I’m @rJa_web3
+- 👀 I’m interested in Community Management Job.
+- 🌱 I’m currently learning Blockchain Technology,web3, Crypto.
 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
